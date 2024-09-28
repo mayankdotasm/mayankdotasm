@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🌱 I’m currently learning Flutter<br><br> - 💬 Ask me about Machine Learning, Deep Learning, Full Stack development, and mobile app frameworks
+- 🌱 I’m currently learning Mobile App Development, Software engineering
+- 💬 Ask me about Machine Learning, Deep Learning, Full Stack development, and mobile app frameworks
 
 
 ## 🌐 Socials:
