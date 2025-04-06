@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning Mobile App Development, Software engineering
+- 🌱I am currently focused on Web Development and Deep Learning, aiming to build scalable, intelligent systems.
 - 💬 Ask me about Machine Learning, Deep Learning, Full Stack development, and mobile app frameworks
 
 
