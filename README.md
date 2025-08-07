@@ -1,7 +1,8 @@
 # Hi, I'm Mayank Kumar 👋
-🌱I am currently focused on 
+🌱 I am currently focused on 
 - Web Development
 - Deep Learning, aiming to build scalable, intelligent systems.
+  
 💬 Ask me about Machine Learning, Deep Learning, and Full Stack development.
 
 
